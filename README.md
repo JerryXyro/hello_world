@@ -1,2 +1,6 @@
 # hello_world
 Newbie instruction
+
+Wilikommen,Menschen....
+
+I'm J3,Just joined Ghub like 7 mins ago.....
